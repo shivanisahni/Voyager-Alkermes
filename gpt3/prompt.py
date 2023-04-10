@@ -16,7 +16,7 @@ questions.append("What is the mechanism of action (target of the chemical reacti
 # questions.append("Did the drug from the article result in improvements in patients and was it successful in its job?")
 # questions.append("When was this clinical trial done (START and END date needed)?")
 example_answers[questions[0]] = "The drug being evaluated for efficiency here is AXS-05, and the target mentioned in the article is oral N-methyl-D-aspartate (NMDA) receptor antagonist and σ1 receptor agonist, meaning the answer is 'oral N-methyl-D-aspartate (NMDA) receptor antagonist and σ1 receptor agonist'"
-openai.api_key = "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" 
+openai.api_key = "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" 
 
 answers = []
 df = pd.DataFrame()
@@ -92,7 +92,7 @@ def parse_all(file_name = 'scraped3.csv'):
             ids.append(row[0])
             ans = run_prompt(prompt)
             answers.append(ans)
-            if idx >= 20:
+            if idx >= 100:
                 break
         
         print(len(answers))
