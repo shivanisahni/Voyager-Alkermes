@@ -21,7 +21,7 @@ example_answers[questions[0]] = ["The disease being treated is Schizophrenia and
                                 "The disease being treated is Schizophrenia and we know that the mechanism of action is an antagonist, so the answer is H-2 antagonist."]
 
 
-openai.api_key = "" #lilian key
+openai.api_key = "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" #lilian key
 
 answers = []
 df = pd.DataFrame()
@@ -61,7 +61,7 @@ def get_article(pubmed_id):
 
 def run_prompt(prompt):
     response = openai.Completion.create(
-            model = "text-davinci-003", 
+            model = "text-curie-001", 
             prompt = prompt,
             temperature = 0,
             max_tokens = 200,
@@ -110,7 +110,7 @@ def parse_all(file_name = 'schiz_abstracts.csv'):
         print(len(ids))
         df['Pub Med ID'] = ids
         df['Answers'] = answers
-        df.to_csv('sampleresults.csv', index = False)
+        df.to_csv('sampleresults_curie.csv', index = False)
         print(df)
 
 parse_all()
