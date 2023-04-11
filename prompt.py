@@ -18,10 +18,12 @@ questions.append("What is the mechanism of action (target of the chemical reacti
 #example_answers[questions[0]] = "The drug being evaluated for efficiency here is AXS-05, and the target mentioned in the article is oral N-methyl-D-aspartate (NMDA) receptor antagonist and σ1 receptor agonist, meaning the answer is 'oral N-methyl-D-aspartate (NMDA) receptor antagonist and σ1 receptor agonist'"
 example_answers[questions[0]] = ["The disease being treated is Schizophrenia and we know that the mechanism of action is an antagonist, so the answer is D1 receptor antagonist.",
                                 "The disease being treated is Schizophrenia and we know that the mechanism of action is an agonist/antagonist, so the answer is selective estrogen receptor modulator agonist/antagonist",
-                                "The disease being treated is Schizophrenia and we know that the mechanism of action is an antagonist, so the answer is H-2 antagonist."]
+                                "The disease being treated is Schizophrenia and we know that the mechanism of action is an antagonist, so the answer is H-2 antagonist.",
+                                "The disease being treated is schizophrenia and we know that the mechanism of action is an agonist, so the answer is dopamine D3-preferring D3/D2 receptor partial agonist and serotonin 5-HT1A receptor partial agonist."]
 
 
-openai.api_key = "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" #lilian key
+########### MAKE SURE TO COMMENT THIS OUT WHEN COMMITTING ############
+openai.api_key = "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" # rohan key
 
 answers = []
 df = pd.DataFrame()
@@ -51,7 +53,10 @@ def generate_prompt(article):
             prompt += "A{}:".format(index) +"\n"
         
         return prompt
-    total_prompt = generate_example(0) + "\n\n" + generate_example(1) + "\n\n" + generate_example(2) + "\n\n" + generate_actual()
+    total_prompt = ""
+    for i in range(4):
+        total_prompt += generate_example(i) + "\n\n"
+    total_prompt += generate_actual()
     return total_prompt
 
 # TODO implement if want to parse by ourselves
@@ -89,6 +94,7 @@ examples.append("""Studies in nonhuman primates documented that appropriate stim
 examples.append("""A substantial proportion of women with schizophrenia experience debilitating treatment-refractory symptoms. The efficacy of estrogen in modulating brain function in schizophrenia has to be balanced against excess exposure of peripheral tissue. Raloxifene hydrochloride is a selective estrogen receptor modulator (mixed estrogen agonist/antagonist) with potential psychoprotective effects and fewer estrogenic adverse effects.
 To determine whether adjunctive raloxifene therapy reduces illness severity in women with refractory schizophrenia.""")
 examples.append("""Smooth pursuit eye movements (SPEM) are often abnormal in schizophrenic patients and have been proposed as a trait marker of the disorder. We explored the use of SPEM as an outcome measure in an open-label clinical trial of famotidine, an H-2 antagonist, in patients with schizophrenia; famotidine has been proposed as an adjunctive medication, particularly for negative symptoms.""")
+examples.append("""Negative symptoms in schizophrenia are heterogeneous and multidimensional; effective treatments are lacking. Cariprazine, a dopamine D3-preferring D3/D2 receptor partial agonist and serotonin 5-HT1A receptor partial agonist, was significantly more effective than risperidone in treating negative symptoms in a prospectively designed trial in patients with schizophrenia and persistent, predominant negative symptoms.""")
 def parse_all(file_name = 'schiz_abstracts.csv'):
     with open(file_name, 'r') as csv_file:
         reader = csv.reader(csv_file)
