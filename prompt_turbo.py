@@ -18,9 +18,9 @@ questions.append("What is the mechanism of action (target of the chemical reacti
 
 # TODO test if adding drug is better
 example_answers[questions[0]] = ["The mechanism of action is: antagonist. The receptor subtype is: D1 receptor antagonist.",
-        "The mechanism of action is: agonist/antagonist. The receptor subtype is: selective estrogen receptor modulator agonist/antagonist",
-        "The mechanism of action is: antagonist. The receptor subtype is: H-2 antagonist.",
-        "The mechanism of action is: agonist. The receptor subtype is: dopamine D3-preferring D3/D2 receptor partial agonist and serotonin 5-HT1A receptor partial agonist."]
+        "The mechanism of action is: agonist/antagonist. The receptor subtype(s) are: selective estrogen receptor modulator agonist/antagonist",
+        "The mechanism of action is: antagonist. The receptor subtype(s) are: H-2 antagonist.",
+        "The mechanism of action is: agonist. The receptor subtype(s) are: dopamine D3-preferring D3/D2 receptor partial agonist and serotonin 5-HT1A receptor partial agonist."]
 
 
 ########### MAKE SURE TO COMMENT THIS OUT WHEN COMMITTING ############
@@ -71,10 +71,6 @@ def run_prompt(prompt):
             model="gpt-3.5-turbo",
             messages=[
             {"role": "system", "content": "You are a very helpful medical researcher."},
-            # examples
-            # {"role": "user", "content": "Who won the world series in 2020?"},
-            # {"role": "assistant", "content": "The Los Angeles Dodgers won the World Series in 2020."},
-            # actual query
             {"role": "user", "content": prompt}]
     )
     text = response['choices'][0]['message']['content']
