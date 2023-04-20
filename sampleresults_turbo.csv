@@ -1,112 +1,111 @@
 Pub Med ID,Answers
-30738380,The article does not mention the mechanism of action or receptor subtype of the drug cariprazine.
-31264510,The mechanism of action is: selective dopamine D1/D5 receptor partial agonist. The receptor subtype(s) are: dopamine D1 and D5 receptor partial agonist.
-25822479,The mechanism of action is: partial agonist. The receptor subtype(s) are: serotonin 1A (5-HT1A) receptor partial agonist.
-26016467,The mechanism of action for one of the drugs (perospirone) is: full antagonist. The mechanism of action for the other drug (aripiprazole) is: partial agonist. The receptor subtype(s) are: dopamine D2 receptor full antagonist and dopamine D2 receptor partial agonist.
-17628435,The mechanism of action is: serotonin-5-HT1A partial agonist. The receptor subtype(s) are: 5-HT1A receptor.
-27371157,The mechanism of action is: partial agonist. The receptor subtype(s) are: α7-nicotinic acetylcholine receptor partial agonist.
-9442338,The mechanism of action is: partial dopamine agonist. The receptor subtype(s) are: dopamine receptors.
-33691517,The mechanism of action is: dopamine/serotonin receptor partial agonist. The receptor subtype(s) are not specified in the abstract.
-8905533,The mechanism of action is: partial benzodiazepine-receptor agonist. The receptor subtype(s) are: not specified.
-23968123,The article does not mention any specific drugs or mechanisms of action being evaluated. It discusses the issue of hyperprolactinemia in women with schizophrenia and the need for better treatment options.
-24419307,The mechanism of action is: partial agonist. The receptor subtype(s) are: alpha-7 nicotinic acetylcholine receptor partial agonist.
-16754836,The mechanism of action is: partial agonist. The receptor subtype(s) are: alpha7 nicotinic acetylcholine receptor partial agonist.
-20728875,The mechanism of action is: partial agonist. The receptor subtype(s) are: α7 nicotinic acetylcholine receptor partial agonist.
-19637398,The mechanism of action is: partial agonist. The receptor subtype(s) are: 5-HT(1A) receptor.
-20033907,The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D2 receptor partial agonist.
-19956085,The mechanism of action is: partial agonist. The receptor subtype(s) are: alpha7-nicotinic acetylcholine receptors partial agonist.
-18381905,The mechanism of action is: partial alpha(7)-nicotinic agonist. The receptor subtype(s) are: alpha(7)-nicotinic receptors.
-26900078,The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D2 receptor partial agonist.
-23303043,The mechanism of action is: partial agonist. The receptor subtype(s) are: alpha7 nicotinic receptor partial agonist.
-11343682,The mechanism of action is: partial agonist. The receptor subtype(s) are: 5-HT(1A) receptor partial agonist.
-24549101,The mechanism of action is: partial agonist. The receptor subtype(s) is: nicotinic α7 receptor partial agonist.
-26940805,The mechanism of action is: selective α7 nicotinic receptor partial agonist. The receptor subtype(s) are: α7 nicotinic acetylcholine receptor.
-9718289,The mechanism of action is: partial agonist. The receptor subtype(s) are: glycine recognition site of the N-methyl-D-aspartate (NMDA) receptor.
-15474895,The mechanism of action is: partial agonist at the glycine site of the NMDA-associated receptor complex. The receptor subtype(s) are: NMDA receptor.
-1715608,"There are multiple drugs discussed in this article with different mechanisms of action and receptor subtypes. Some of the drugs include:
-- Sulpiride and remoxipride: block a subgroup of dopamine (DA) D2/D3 receptors
-- D1 antagonists: block D1 receptors
-- Partial D2 agonists: stimulate D2 receptors but not to the same extent as a full agonist
-- Serotonin (5HT1) agonists: stimulate 5HT1 receptors
-- 5HT2 antagonists: block 5HT2 receptors
-- 5HT3 antagonists: block 5HT3 receptors
-- Gamma-amino-butyric-acid-A (GABA-A) benzodiazepine agonists: stimulate GABA-A receptors 
-- Clozapine and risperidone: affect multiple receptors including D2/D3, 5HT, alpha 1, and/or D1 receptors. 
+30738380,"The article mentions the mechanism of action of cariprazine, which is a dopamine D3-preferring D3/D2 receptor partial agonist and serotonin 5-HT1A receptor partial agonist. There is no information given about the receptor subtypes targeted by risperidone, the drug it is being compared to in the study."
+31264510,The receptor(s) are: dopamine. The subtype(s) are: D1/D5. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine D1/D5 receptor partial agonist.
+25822479,The article is not discussing the mechanism of action or receptor subtype of any drug. It is investigating the relationship between specific genetic variants (single nucleotide polymorphisms) of the serotonin 1A (5-HT1A) receptor gene (HTR1A) and the efficacy of antipsychotics with 5-HT1A receptor partial agonism in patients with schizophrenia.
+26016467,The receptor(s) are: dopamine. The subtype(s) are: D2. The binding mode(s) is/are: antagonist and partial agonist. Therefore the mechanism of action is: antipsychotics with mechanisms involving either full antagonism or partial agonism of D2-R.
+17628435,The receptor(s) are: serotonin. The subtype(s) are: 5-HT1A. The binding mode(s) is: partial agonist. Therefore the mechanism of action is: serotonin-5-HT1A partial agonist.
+27371157,The mechanism of action is targeting the nicotinic acetylcholine receptor. The subtype(s) is: α7-nicotinic acetylcholine receptor. The binding mode is: partial agonist. Therefore the mechanism of action is: α7-nicotinic acetylcholine receptor partial agonist.
+9442338,"The receptor(s) are: dopamine. The subtype(s) are: not given, but the drug is described as a partial agonist. Therefore the mechanism of action is: partial dopamine agonist."
+33691517,The mechanism of action(s) are: dopamine and serotonin receptor partial agonist. The subtype(s) are: not specified.
+8905533,The receptor(s) are: benzodiazepine. The subtype(s) are: partial agonist. The binding mode is: partial agonist. Therefore the mechanism of action is: partial benzodiazepine-receptor agonist.
+23968123,The article does not provide information on the specific drugs or mechanisms of action being evaluated in the DAAMSEL clinical trial. It only discusses the issue of hyperprolactinemia in women with schizophrenia and the need for better treatment options.
+24419307,The receptor(s) are: alpha-7 nicotinic acetylcholine receptor. The subtype(s) are: alpha-7 nicotinic. The binding mode is: partial agonist. Therefore the mechanism of action is: alpha-7 nicotinic partial agonist.
+16754836,The receptor(s) are: alpha7 nicotinic acetylcholine receptor. The subtype(s) are: alpha7 nicotinic cholinergic receptor. The binding mode(s) is: partial agonist. Therefore the mechanism of action is: alpha7 nicotinic cholinergic partial agonist.
+20728875,The receptor(s) are: α7 nicotinic acetylcholine receptors. The subtype(s) are: α7-nicotinic receptor subunit gene (CHRNA7). The binding mode is: partial agonist. Therefore the mechanism of action is: partial agonist at α7 nicotinic acetylcholine receptors.
+19637398,The receptor(s) are: serotonin. The subtype(s) are: 5-HT1A. The binding mode is: partial agonist. Therefore the mechanism of action is: partial 5-HT1A receptor agonist. The study also involves the augmentation of atypical antipsychotics with buspirone.
+20033907,"The receptor(s) are: dopamine D2. The subtype(s) are: not specified, but aripiprazole is a partial agonist. The binding mode is: partial agonist. Therefore, the mechanism of action is dopamine D2 receptor partial agonist."
+19956085,The receptor(s) are: alpha7-nicotinic acetylcholine. The subtype(s) are: None given. The binding mode is: partial agonist. Therefore the mechanism of action is: alpha7-nicotinic acetylcholine receptor partial agonist.
+18381905,The receptor(s) are: nicotinic acetylcholine. The subtype(s) are: alpha(7). The binding mode is: partial agonist. Therefore the mechanism of action is: alpha(7)-nicotinic receptor partial agonist.
+26900078,The receptor(s) are: dopamine and serotonin. The subtype(s) are: D2 and 5-HT2A. The binding mode(s) is: partial agonist (for aripiprazole) and blocker (for risperidone). Therefore the mechanism of action for aripiprazole is: D2 receptor partial agonist and for risperidone is: D2/5-HT2A blocker.
+23303043,"The receptor(s) are: alpha7 nicotinic receptor. The subtype(s) are: not given, but it is described as a partial agonist. Therefore the mechanism of action is: alpha7 nicotinic receptor partial agonist."
+11343682,The receptor(s) are: serotonin. The subtype(s) are: 5-HT1A. The binding mode is: partial agonist. Therefore the mechanism of action is: serotonin 5-HT1A agonist.
+24549101,The receptor(s) are: nicotinic α7. The subtype(s) are: partial agonist. Therefore the mechanism of action is: nicotinic α7 receptor partial agonist.
+26940805,The mechanism of action is: selective α7 nicotinic receptor partial agonist. The receptor subtype is: α7 nicotinic acetylcholine receptor.
+9718289,The receptor(s) are: N-methyl-D-aspartate (NMDA). The subtype(s) are: glycine recognition site. The binding mode(s) is: partial agonist. Therefore the mechanism of action is: partial agonist of the glycine recognition site of the NMDA receptor.
+15474895,The mechanism of action is partial agonist at the glycine site of the NMDA-associated receptor complex. The receptor subtype is NMDA. The binding mode is noncompetitive. Therefore the mechanism of action is D-cycloserine as a partial agonist at the glycine site of the NMDA-associated receptor complex.
+1715608,"This article covers multiple classes of antipsychotics and their mechanisms of action, so there are several mechanisms of action and receptor subtypes discussed. 
 
-Therefore, the mechanism of action and receptor subtype(s) vary depending on the drug being discussed in the article."
-17728426,The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D2 receptor partial agonist.
-19366489,The mechanism of action is: partial agonist and full antagonist. The receptor subtype(s) are: dopamine D2 receptor partial agonist and antagonist antipsychotics (risperidone or olanzapine).
-21068719,The mechanism of action is: antagonist and partial inverse agonist. The receptor subtype(s) are: benzodiazepine receptor.
-25438724,The mechanism of action is: partial agonist. The receptor subtype(s) are: alpha-7 nicotinic acetylcholine receptor partial agonist.
-16154544,The mechanism of action is: full agonist. The receptor subtype(s) are: NMDA subunit glycine site.
-25363835,The mechanism of action is: partial agonist. The receptor subtype(s) are: α7 nicotinic acetylcholine receptor partial agonist.
-27613505,The mechanism of action is: partial agonist. The receptor subtype(s) are: nicotinic acetylcholine receptor partial agonist.
-3310672,The mechanism of action is: partial opiate agonist. The receptor subtype(s) are: opiate receptors.
-25953357,"There are multiple drugs being evaluated in this study with different mechanisms of action and targets. Iomazenil is an antagonist and partial inverse agonist of the benzodiazepine receptor, while amphetamine is a psychostimulant that primarily affects dopamine and norepinephrine release. There are no specific receptor subtypes mentioned in this article."
-21145041,The mechanism of action is: partial agonist. The receptor subtype(s) are: γ-aminobutyric acid (GABA)(A) α2/α3 partial agonist.
-24114425,"The mechanism of action for mecamylamine is: antagonist, while the mechanism of action for varenicline is: partial agonist. The receptor subtype(s) are: nicotinic acetylcholine receptors (nAChRs)."
-23342824,"The mechanism of action for aripiprazole and risperidone is not specified in the article. However, aripiprazole is described as a D2 and D3 receptor partial agonist, while risperidone is a second-generation antipsychotic."
-28252452,The mechanism of action is: dopamine D2 receptor partial agonist. The receptor subtype(s) are: dopamine D2 receptor.
-32349117,The mechanism of action is: partial agonist. The receptor subtype(s) are: alpha7 nicotinic acetylcholine receptor (nAChR) partial agonist.
-22952075,The mechanism of action is: partial agonist. The receptor subtype(s) are: α7 nicotinic acetylcholine receptor (nAChR) partial agonist.
-26834462,The mechanism of action is: dopamine D3-preferring D3/D2 receptor partial agonist. The receptor subtype(s) are: dopamine D3 and D2 receptor partial agonist.
-16300872,"The mechanism of action is: D2/5-HT2A antagonist and partial 5-HT1A agonist. The receptor subtype(s) are: dopamine D2 and 5-HT2A antagonist, and partial 5-HT1A agonist."
-27565651,"The mechanism of action is: partial agonist. 
-The receptor subtype(s) are: alpha7-nicotinic receptor partial agonist."
-28838583,"The mechanism of action is not explicitly stated in the abstract, but aripiprazole is known to be a dopamine D2 receptor partial agonist, among other receptor subtypes."
-28478771,The mechanism of action is: dopamine D3/D2 partial agonist. The receptor subtype(s) are: dopamine D3 and D2 receptors.
-27543252,The mechanism of action is: partial and full agonist. The receptor subtype(s) are: α4β2 and α7 nicotine acetylcholine receptors.
-25981348,The mechanism of action is: partial dopamine receptor agonist. The receptor subtype(s) are: dopamine receptors.
-27427558,The mechanism of action is: dopamine D3/D2 receptor partial agonist with preference for D3 receptors. The receptor subtype(s) are: dopamine D3 and D2 receptor partial agonist.
-33138708,"The drugs being evaluated are varenicline, bupropion, and nicotine replacement therapy (NRT), which are not partial agonists targeting specific receptor subtypes, but rather pharmacotherapeutic smoking cessation aids with different mechanisms of action."
-24096218,The mechanism of action and receptor subtype(s) for aripiprazole and risperidone are not explicitly stated in this article.
-19238124,"The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D2 receptor partial agonist, serotonin (5-HT)1A receptor partial agonist, and serotonin 5-HT2A receptor antagonist."
-16810506,The mechanism of action is: partial agonist. The receptor subtype(s) are: D(2) and D(3) receptor partial agonist.
-21723096,The mechanism of action is: partial agonist at the glycine site of the NMDA receptor. The receptor subtype(s) are: N-methyl-D-aspartate (NMDA) receptor.
-18765484,"The mechanism of action is: partial agonist. The target receptor subtype(s) are: dopamine receptors. Specifically, the article states that aripiprazole is a dopamine partial agonist, and that it is approved for short- and long-term treatment of schizophrenia and bipolar disorder in adults. The study is examining the acute efficacy, safety, and tolerability of aripiprazole for adolescents with schizophrenia."
-21432752,"The mechanism of action is: partial dopamine agonist. The receptor subtype(s) are: dopamine receptors, specifically targeting the limbic branch of the dopamine system."
-19512978,"The mechanism of action is: partial agonist and antagonist. The receptor subtype(s) are: dopamine D2 and 5-HT1A receptors (partial agonist), and 5-HT2A receptor (antagonist)."
-24412468,The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D3 and D2 partial agonist with preferential binding to D3 receptors.
-20817153,The mechanism of action is: partial agonist at the N-methyl-D-aspartate receptor in the amygdala. The receptor subtype(s) are: NMDA receptor partial agonist.
-1679338,The mechanism of action is: partial dopamine agonist. The receptor subtype(s) are: dopamine receptors.
-16237386,The mechanism of action is: partial agonist. The receptor subtype(s) are: serotonin-1A (5-HT1A) receptor partial agonist.
-20562170,The mechanism of action is: partial agonist. The receptor subtype(s) are: serotonin-1A (5-HT(1A)) receptor partial agonist.
-10553752,The mechanism of action is: full agonist. The receptor subtype(s) are: N-methyl-D-aspartate (NMDA) receptor glycine site.
-19387614,The mechanism of action is: partial agonist and antagonist. The receptor subtype(s) are: dopamine D2 and D3 and serotonin 1A receptors (partial agonist) and serotonin 2A receptors (antagonist).
-25056368,The mechanism of action is: dopamine D3 and D2 receptor partial agonist. The receptor subtype(s) are: dopamine D3 and D2 receptors.
-26730716,The mechanism of action is: partial nicotinic agonist. The receptor subtype(s) are: nicotinic receptors in the brain.
-27807604,The mechanism of action is: dopamine D3 and D2 receptor partial agonist. The article does not specify which receptor subtype(s) are being evaluated.
-21062637,The mechanism of action for CBD is: weak partial agonist or antagonist. The receptor subtype(s) are: cannabinoid-1/2 (CB1/2) receptor. The mechanism of action for ketamine is: NMDA receptor antagonist.
-22048460,The mechanism of action is: partial agonist at the α4β2 and full agonist at the α7 nicotine acetylcholine receptor.
-24923986,The mechanism of action is: partial agonist and antagonist. The receptor subtype(s) are: dopamine D2 and 5HT1A partial agonist and 5HT2A and glutamate antagonist.
-32297486,The article does not provide information on the mechanism of action or receptor subtype(s) for brexpiprazole.
-21810630,The mechanism of action is: partial agonist and antagonist. The receptor subtype(s) are: alpha 4 beta 2 nicotinic acetylcholine receptor.
-30695290,The mechanism of action is: dopamine D3/D2 receptor and serotonin 5-HT1A receptor partial agonist. The receptor subtype(s) are: dopamine D3/D2 receptor and serotonin 5-HT1A receptor.
-21616975,The mechanism of action is: partial dopamine D2 receptor agonist. The receptor subtype(s) are: dopamine D2 receptor.
-18848860,The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D2 receptor partial agonist.
-35012696,"The mechanism of action is not stated in the abstract. However, the drug being evaluated, cariprazine, is described as a potent D agent, indicating that it acts on dopamine receptors. The specific subtype(s) of dopamine receptor(s) affected are not mentioned."
-26075487,The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D3 and D2 receptor partial agonist with preferential binding to D3 receptors.
-19302829,The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D2 and D3 receptors.
-21105281,The mechanism of action is: partial agonist. The receptor subtype(s) are: 5-HT1A receptor partial agonist.
-16723179,The mechanism of action is: D(2)/5-HT(2A) antagonist and partial 5-HT(1A) agonist. The receptor subtype(s) are: dopamine D2 and serotonin 5-HT(1A) and 5-HT(2A) receptors.
-22198450,"The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D2 receptor partial agonist. Specifically, the drug being evaluated in this study is aripiprazole, which is a DRD2 partial agonist."
-16140281,The mechanism of action is: partial inverse agonist and antagonist. The receptor subtype(s) are: GABA(A) receptor complex and 5-HT(2A/2C) receptors partial agonist.
-15023571,The mechanism of action is: inhibition of glycine transporter I. The receptor subtype(s) are: glycine site of N-methyl-D-aspartate receptor.
-19451828,The mechanism of action of the drug is: partial agonist. The receptor subtype(s) are: dopamine D2 receptor partial agonist.
-7541598,"There are multiple mechanisms of action and receptor subtypes mentioned in the article. Levodopa, amphetamines, and bromocriptine are dopamine agonists. MAR 327 is a partial dopamine agonist. Tricyclic antidepressants, selective serotonin reuptake inhibitors, and monoamine oxidase inhibitors are drugs that affect serotonin function. Glycine is used to augment transmission at N-methyl-D-aspartate (NMDA) synapses. Both risperidone and clozapine are combined serotonin/dopamine antagonists with activity at 5-HT2 and D2 receptors."
-14609439,"The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D2 receptor partial agonist and 5-HT1A receptor partial agonist, and 5-HT2A receptor antagonist."
-1348584,The mechanism of action is: partial dopamine agonist. The receptor subtype(s) are: dopamine receptors.
-8102048,The mechanism of action is: partial agonist. The receptor subtype(s) are: serotonin partial agonist.
-19386475,The mechanism of action is: partial agonist. The receptor subtype(s) are: serotonin-5-HT(1A) receptor partial agonist.
-29619682,The mechanism of action is: dopamine-serotonin stabilizer with partial agonist activity for dopamine and serotonin receptors. The receptor subtype(s) are: dopamine and serotonin receptors.
-12084415,The mechanism of action is: partial agonist at the glycine recognition site of the NMDA receptor. The receptor subtype(s) are: NMDA receptor glycine recognition site.
-8944393,The mechanism of action is: partial agonist. The receptor subtype(s) are: serotonin receptor partial agonist with high affinity for 5-HT1C binding sites.
-10071726,The mechanism of action is: partial agonist at the glycine recognition site of the NMDA receptor. The receptor subtype(s) are: NMDA receptor glycine recognition site partial agonist.
-11720694,The mechanism of action is: partial agonist. The receptor subtype(s) are: 5-HT(1A) receptor partial agonist.
-15061240,The mechanism of action is: NMDA agonist. The receptor subtype(s) are: NMDA receptors.
-22697189,The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine partial agonist.
-9466160,The mechanism of action and receptor subtype(s) for buspirone are: partial 5-HT1A agonist. The mechanism of action and receptor subtype(s) for mianserin are: 5-HT2A/2C antagonist.
-7625475,The mechanism of action is: partial agonist at the glycine site of the N-methyl-D-aspartate subtype of the glutamate receptor. The receptor subtype(s) are: NMDA subtype of the glutamate receptor.
-9564205,"The mechanism of action is: dopamine autoreceptor agonist and partial dopamine D2/D3 agonist. The receptor subtype(s) are: dopamine autoreceptors, dopamine D2 receptors, and dopamine D3 receptors."
-15502972,The mechanism of action is: partial agonist at the glycine site of the N-methyl-D-aspartate receptor. The receptor subtype(s) are: glycine site of the N-methyl-D-aspartate receptor.
-32868522,The mechanism of action is: partial agonist. The receptor subtype(s) are: dopamine D2 receptor partial agonist.
+1. Antipsychotics such as sulpiride and remoxipride block a subgroup of dopamine (DA) D2/D3 receptors.
+2. Partial D2 agonists target D2 receptors.
+3. Nondopamine drugs such as serotonin (5HT1) agonists, 5HT2 antagonists, 5HT3 antagonists, and gamma-amino-butyric-acid-A (GABA-A) benzodiazepine agonists target various receptors.
+4. Antipsychotics such as clozapine and risperidone affect D2/D3 receptors as well as 5HT, alpha 1, and/or D1 receptors."
+17728426,The receptor(s) are: dopamine. The subtype(s) are: D2. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine D2 receptor partial agonist.
+19366489,The receptor(s) are: dopamine. The subtype(s) are: D2. The binding mode(s) is: partial agonist and full antagonist. Therefore the mechanism of action is: dopamine D2 receptor partial agonist and full antagonist antipsychotics.
+21068719,The receptor(s) are: benzodiazepine. The subtype(s) are: Not given. The binding mode is: antagonist and partial inverse agonist. Therefore the mechanism of action is: benzodiazepine receptor antagonist and partial inverse agonist.
+25438724,The mechanism of action is: selective α7 nicotinic acetylcholine receptor partial agonist. The receptor subtype is: α7 nicotinic receptor.
+16154544,"The receptor(s) are: N-methyl-d-aspartate (NMDA) subtype glutamate. The subtype(s) are: glycine site. The binding mode is: full agonist. Therefore the mechanism of action is: endogenous full agonist of the glycine site of the NMDA receptor. Specifically, D-alanine is being evaluated as an endogenous agonist of the NMDA-glycine site."
+25363835,The receptor(s) are: α7 nicotinic ACh. The subtype(s) are: Not given. The binding mode is: partial agonist. Therefore the mechanism of action is: α7 nicotinic ACh receptor partial agonist.
+27613505,The receptor(s) are: nicotinic acetylcholine receptor (nAChR). The subtype(s) are: None given. The binding mode is: partial agonist. Therefore the mechanism of action is: nAChR partial agonist.
+3310672,The mechanism of action and receptor subtypes are not specified in this article.
+25953357,"The drugs evaluated in this study are iomazenil and amphetamine. The mechanism of action for iomazenil is as an antagonist and partial inverse agonist of benzodiazepine receptor, which induces a pharmacologically-induced GABA deficit. The mechanism of action for amphetamine is its ability to increase striatal dopamine release. There are no receptor subtypes specified for either drug in this particular article."
+21145041,The receptor(s) are: γ-aminobutyric acid (GABA). The subtype(s) are: α2/α3. The binding mode is: partial agonist. Therefore the mechanism of action is: GABA(A) α2/α3 partial agonist.
+24114425,"The mechanism of action(s) are: nicotinic acetylcholine receptors (nAChRs). The subtype(s) are: not specified, but mecamylamine is an antagonist and varenicline is a partial agonist."
+23342824,The receptor(s) are: dopamine. The subtype(s) are: D2 and D3. The binding mode(s) is: partial agonist. Therefore the mechanism of action is: dopamine D2 and D3 receptor partial agonist.
+28252452,The receptor(s) are: dopamine D2. The subtype(s) are: partial agonist (aripiprazole once-monthly) and antagonist (paliperidone palmitate). Therefore the mechanism of action for aripiprazole once-monthly is dopamine D2 receptor partial agonist. The mechanism of action for paliperidone palmitate is dopamine D2 receptor antagonist.
+32349117,"The receptor(s) are: α7 nicotinic acetylcholine receptor. The subtype(s) are: none given, but the drug is a partial agonist of the receptor. Therefore the mechanism of action is: partial agonist of the α7 nicotinic acetylcholine receptor."
+22952075,The mechanism of action is: partial agonist at the alpha7 nicotinic acetylcholine receptor (nAChR). The receptor subtype is: alpha7 nAChR.
+26834462,The receptor(s) are: dopamine. The subtype(s) are: D3/D2. The binding mode(s) is: partial agonist. Therefore the mechanism of action is: dopamine D3-preferring D3/D2 receptor partial agonist.
+16300872,"The receptor(s) are: dopamine and serotonin. The subtype(s) are: D2, 5-HT2A, and 5-HT1A. The binding mode(s) is: antagonist for D2 and 5-HT2A receptors and partial agonist for 5-HT1A receptors. Therefore the mechanism of action is: D2/5-HT2A antagonist and partial 5-HT1A agonist."
+27565651,"The receptor(s) are: alpha7-nicotinic receptor. The subtype(s) are: Not specified, but it is mentioned that the drug is a receptor-specific partial agonist. Therefore, the mechanism of action is: alpha7-nicotinic receptor-specific partial agonist."
+28838583,The receptor(s) are: dopamine. The subtype(s) are: D2 and D3. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine D2/D3 receptor partial agonist.
+28478771,The receptor(s) are: dopamine D3/D2. The subtype(s) are: D3/D2. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine D3/D2 partial agonist atypical antipsychotic.
+27543252,"The receptor(s) are: nicotine acetylcholine. The subtype(s) are: α4β2 and α7. The binding mode(s) is: partial and full agonist. Therefore the mechanism of action is: varenicline acts as a partial and full agonist at the α4β2 and α7 nicotine acetylcholine receptors, respectively."
+25981348,The receptor(s) are: dopamine. The subtype(s) are: partial agonist. The binding mode is: partial agonist. Therefore the mechanism of action is: partial dopamine receptor agonist.
+27427558,The receptor(s) are: dopamine. The subtype(s) are: D3/D2. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine D3/D2 receptor partial agonist.
+33138708,"The drugs being evaluated are varenicline (a partial agonist of the nicotinic acetylcholine receptor), bupropion (a norepinephrine-dopamine reuptake inhibitor), and nicotine replacement therapy (NRT). The mechanism of action for varenicline is acting as a partial agonist of the nicotinic acetylcholine receptor, while the mechanism of action for bupropion is inhibiting norepinephrine and dopamine reuptake. The mechanism of action for NRT is replacing nicotine in the body to help reduce withdrawal symptoms. No specific receptor subtype is mentioned for bupropion or NRT."
+24096218,"The drugs being evaluated are aripiprazole and risperidone. The mechanism of action for aripiprazole is partial dopamine agonism, while risperidone blocks dopamine D2 receptors. The specific receptor subtypes and binding modes are not mentioned in the article."
+19238124,"The receptor(s) are: dopamine and serotonin. The subtype(s) are: D2, 5-HT1A, and 5-HT2A. The binding mode(s) is: partial agonist and antagonist. Therefore, the mechanism of action is: dopamine D2 receptor partial agonist, partial agonist activity at serotonin (5-HT)1A receptors, and antagonist activity at 5-HT2A receptors."
+16810506,The receptor(s) are: dopamine. The subtype(s) are: D2 and D3. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine D2 and D3 receptor partial agonist.
+21723096,The receptor(s) are: N-methyl-D-aspartate (NMDA) receptor. The subtype(s) are: glycine site. The binding mode is: partial agonist. Therefore the mechanism of action is: partial agonist at the glycine site of the NMDA receptor.
+18765484,"The receptor(s) are: dopamine. The subtype(s) is: partial agonist. Therefore, the mechanism of action is dopamine partial agonist."
+21432752,The receptor(s) are: dopamine. The subtype(s) are: partial agonist. The drug(s) being evaluated are: aripiprazole and risperidone. Therefore the mechanism of action is: dopamine partial agonist.
+19512978,"The receptor(s) are: D2, 5-HT1A, and 5-HT2A. The subtype(s) are: Partial agonist (D2 and 5-HT1A) and antagonist (5-HT2A). Therefore the mechanism of action is: Aripiprazole is a partial agonist at D2 and 5-HT1A receptors and a potent antagonist at 5-HT2A receptor."
+24412468,The receptor(s) are: dopamine. The subtype(s) are: D3 and D2. The binding mode(s) is: partial agonist. Therefore the mechanism of action is: dopamine D3 and D2 partial agonist.
+20817153,The mechanism of action is: partial agonist at the N-methyl-D-aspartate receptor in the amygdala. The receptor subtype(s) are: N-methyl-D-aspartate receptor. The binding mode is: partial agonist. Therefore the mechanism of action is: N-methyl-D-aspartate receptor partial agonist.
+1679338,The mechanism of action is: partial dopamine agonist. The receptor(s) are: dopamine. The subtype(s) are: not given.
+16237386,"The receptor(s) are: serotonin. The subtype(s) are: 5-HT1A. The binding mode(s) is: partial agonist. Therefore the mechanism of action is: serotonin-1A receptor partial agonist. Additionally, the study also involves estrogen as a treatment. However, it is not classified as a drug with a specific mechanism of action or receptor subtype."
+20562170,"The drug being evaluated is buspirone, which is a 5-HT1A receptor partial agonist. Estrogen is not a drug in this study, but it is being examined for its effects on modulation of the loudness dependence of the auditory evoked potential and mismatch negativity through its interaction with central serotonergic mechanisms."
+10553752,"The receptor(s) are: N-methyl-D-aspartate (NMDA). The subtype(s) are: glycine site. The binding mode(s) is: full agonist. Therefore the mechanism of action is: D-serine, a full agonist at the glycine site on the NMDA receptor."
+19387614,"The drug being evaluated is aripiprazole. The receptor(s) are: dopamine D2 and D3, serotonin 1A, and serotonin 2A (HTR2A). The binding mode(s) is: partial agonist for dopamine D2 and D3 and serotonin 1A receptors, and antagonist for serotonin 2A (HTR2A) receptor. Therefore, the mechanism of action is: partial agonist at dopamine D2 and D3 and serotonin 1A receptors, and antagonist at serotonin 2A (HTR2A) receptor."
+25056368,The receptor(s) are: dopamine. The subtype(s) are: D3 and D2. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine D3 and D2 receptor partial agonist.
+26730716,The receptor(s) are: nicotinic. The subtype(s) are: partial agonist. The binding mode is: partial agonist. Therefore the mechanism of action is: partial nicotinic agonist.
+27807604,The mechanism of action and receptor subtype(s) of cariprazine are not specified in this article.
+21062637,"The receptor(s) are: cannabinoid-1/2 (CB1/2) and NMDA glutamate. The subtype(s) are: Not given. The binding mode(s) is: CBD is a weak partial agonist or antagonist of CB1/2 receptors, while ketamine is an NMDA receptor antagonist. Therefore the mechanism of action is: a complex pattern of psychopharmacologic interactions between CBD and ketamine at the doses of each agent studied in this experiment."
+22048460,The receptor(s) are: α4β2 and α7 nicotine acetylcholine. The subtype(s) are: partial agonist. Therefore the mechanism of action is: partial agonist at the α4β2 and full agonist at the α7 nicotine acetylcholine receptor.
+24923986,"The receptor(s) are: dopamine, 5-HT1A, and glutamate. The subtype(s) are: D2, 5-HT2A. The binding mode(s) are: partial agonist and antagonist. Therefore the mechanism of action is: D2 and 5HT1A partial agonist and 5HT2A and glutamate antagonist."
+32297486,The article does not provide information about the mechanism of action or receptor subtype of brexpiprazole.
+21810630,The mechanism of action is: nicotinic acetylcholine receptor (nAChR) partial agonist and antagonist. The receptor subtype(s) is/are: α4β2. The drug being evaluated is: varenicline tartrate.
+30695290,The receptor(s) are: dopamine and serotonin. The subtype(s) are: D3/D2 and 5-HT1A. The binding mode(s) is: partial agonist. Therefore the mechanism of action is: dopamine D3/D2 receptor and serotonin 5-HT1A receptor partial agonist.
+21616975,The receptor(s) are: dopamine. The subtype(s) are: D2. The binding mode is: partial agonist. Therefore the mechanism of action is: partial dopamine D2 receptor agonist.
+18848860,The receptor(s) are: dopamine. The subtype(s) are: D2. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine partial agonist with high affinity for dopamine D2 receptors.
+35012696,"The article mentions that cariprazine is a potent D (dopamine) receptor partial agonist, but does not specify the subtype(s) targeted. The article does not mention any other mechanism of action or receptor subtypes evaluated."
+26075487,The receptor(s) are: dopamine. The subtype(s) are: D3 and D2. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine D3 and D2 receptor partial agonist.
+19302829,The mechanism of action is partial agonist on the dopamine neurotransmission system. The receptor subtype(s) are dopamine D2 and D3 receptors (DRD2 and DRD3). The study also evaluates the effects of a functional DRD3 gene polymorphism Ser9Gly (rs6280) on the efficacy of aripiprazole.
+21105281,"The mechanism of action of the drug(s) is: partial agonism at 5-HT1A receptors. The receptor subtype(s) is/are: 5-HT1A. The drug being evaluated is buspirone, which is a partial agonist at 5-HT1A receptors. Risperidone, which is also mentioned in the article, is an atypical antipsychotic that primarily blocks dopamine D2 receptors."
+16723179,The receptor(s) are: dopamine and serotonin. The subtype(s) are: D2/5-HT2A and 5-HT1A. The binding mode(s) is: antagonist and partial agonist. Therefore the mechanism of action is: D2/5-HT2A receptor antagonist and partial 5-HT1A receptor agonist.
+22198450,"The drug being evaluated is aripiprazole, a dopamine D2 partial agonist. The receptor subtype(s) targeted by the drug is: dopamine D2 receptor."
+16140281,"The receptor(s) are: gamma-aminobutyric acid type A (GABA(A)) and serotonergic (5-HT(2A/2C)). The subtype(s) are: benzodiazepine site of the GABA(A) receptor complex and 5-HT(2A/2C) receptors. The binding mode(s) is: antagonist and partial inverse agonist of GABA(A) receptor complex, and partial agonist of 5-HT(2A/2C) receptors. Therefore the mechanism of action is: interaction between GABA(A) and 5-HT systems."
+15023571,"The receptor(s) are: glycine transporter-1 and N-methyl-D-aspartate receptor. The subtype(s) are: not specified for NMDA receptor. The binding mode(s) is: antagonist for glycine transporter-1 and full/partial agonist for NMDA receptor. Therefore the mechanism of action is: glycine transporter I inhibitor, which potentiates glycine's action on N-methyl-D-aspartate glycine site, leading to beneficial effects on schizophrenia."
+19451828,"The receptor(s) are: dopamine, specifically the D2 receptor. The binding mode(s) is: partial agonist for the D2 receptor. Therefore the mechanism of action is: D2 receptor partial agonist."
+7541598,"There are multiple drugs mentioned in the article, each with its own mechanism of action:
+- Levodopa, amphetamines, and bromocriptine: Dopamine agonists
+- MAR 327: Partial dopamine agonist
+- Tricyclic antidepressants, selective serotonin reuptake inhibitors, and monoamine oxidase inhibitors: Not specified, but likely acting on the monoamine neurotransmitter systems (e.g. serotonin, norepinephrine)
+- Glycine: Augments NMDA receptor function
+- Clozapine and risperidone: Combined serotonin/dopamine antagonists (clozapine also has other complex mechanisms of action)"
+14609439,The receptor(s) are: dopamine and serotonin. The subtype(s) are: D2 and 5-HT1A/5-HT2A. The binding mode(s) is: partial agonist/antagonist. Therefore the mechanism of action is: D2 receptor partial agonist with partial agonist activity at 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
+1348584,"The receptor(s) are: dopamine. The subtype(s) are: partial agonist (not specified). The binding mode is: partial agonist. Therefore, the mechanism of action is: partial dopamine agonist."
+8102048,"The drug being evaluated is m-chlorophenylpiperazine (MCPP), which is a serotonin partial agonist. The receptor subtype being targeted is not specified, but the study provides evidence implicating serotonergic systems in the positive symptoms of schizophrenia. The mechanism of action is increasing serotonin activity in the brain."
+19386475,The receptor(s) are: serotonin-5-HT(1A). The subtype(s) are: partial agonist. Therefore the mechanism of action is: partial agonist at serotonin-5-HT(1A) receptors.
+29619682,The mechanism of action is a dopamine-serotonin stabilizer. The receptor subtype(s) are: dopamine and serotonin. The binding mode is: partial agonist.
+12084415,"The mechanism of action is targeting the glycine recognition site of the NMDA receptor. The receptor subtype is not specifically mentioned, but D-cycloserine is a partial agonist at the glycine recognition site of the NMDA receptor."
+8944393,"The drug being evaluated in the article is meta-chlorophenylpiperazine (mCPP). The receptor subtype(s) are: serotonin (5-HT) receptor, specifically the 5-HT1C binding sites. The binding mode is: partial agonist. Therefore the mechanism of action is: 5-HT1C receptor partial agonist."
+10071726,The receptor(s) are: NMDA. The subtype(s) are: glycine recognition site. The binding mode is: partial agonist. Therefore the mechanism of action is: partial agonist at the glycine recognition site of the NMDA receptor.
+11720694,"The drug being evaluated is ipsapirone, which is a 5-HT(1A) partial agonist. The receptor being targeted is the 5-HT(1A) receptor."
+15061240,"The receptor(s) are: N-methyl-D-aspartate (NMDA). The subtype(s) are: Not given. The binding mode(s) is: agonist. Therefore the mechanism of action is: NMDA agonists. Specifically, the drugs being evaluated are glycine and D-cycloserine, which are potential treatments for persistent negative symptoms of schizophrenia. Glycine and D-serine are full agonists, while D-cycloserine is a partial agonist. The study suggests that full agonists may be more effective than partial agonists in treating these symptoms."
+22697189,The receptor(s) are: dopamine. The subtype(s) are: partial agonist. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine partial agonist.
+9466160,The receptor(s) are: dopamine and serotonin. The subtype(s) are: 5-HT1A and 5-HT2A/2C. The binding mode(s) is: partial agonist for buspirone and antagonist for mianserin. Therefore the mechanism of action for buspirone is: partial 5-HT1A agonist with anti-5-HT activity and for mianserin is 5-HT2A/2C antagonist.
+7625475,The receptor(s) are: N-methyl-D-aspartate (NMDA) subtype of glutamate receptor. The subtype(s) are: glycine site. The binding mode is: partial agonist. Therefore the mechanism of action is: partial agonist at the glycine site of the NMDA subtype of glutamate receptor.
+9564205,"The receptor(s) are: dopamine autoreceptor, D2 and D3. The subtype(s) are: partial agonist. Therefore the mechanism of action is: dopamine autoreceptor agonist and partial D2/D3 agonist."
+15502972,The receptor(s) are: N-methyl-D-aspartate (NMDA) receptor. The subtype(s) are: glycine site. The binding mode is: partial agonist. Therefore the mechanism of action is: partial agonist at the glycine site of the NMDA receptor.
+32868522,The receptor(s) are: dopamine D2 receptor. The subtype(s) are: DRD2. The binding mode is: partial agonist. Therefore the mechanism of action is: dopamine partial agonistic profile. The drug being evaluated is aripiprazole.
