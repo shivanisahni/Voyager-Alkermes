@@ -37,7 +37,6 @@ def generate_prompt(article, MoA, example_prompts, example_answers):
     def generate_example(index):
         prompt = "I will give you an article then ask a few questions about it. \n"
         prompt += example_prompts[MoA][index] + "\n"
-        prompt += "Keywords: "
         prompt += "Here are the questions about the article: \n"
         idx = 0
         for question in questions:
@@ -96,7 +95,7 @@ def parse_all(file_name, example_prompts, example_answers):
         num_processed += 1
 
         title = row['ARTICLE TITLE']
-        abstract = row['ABSTRACT']
+        abstract = row['COMBINED']
         prompt = "Title: {}\n Abstract: {}".format(title, abstract)
         MoA = row['MoA']
 
@@ -125,7 +124,7 @@ def parse_all(file_name, example_prompts, example_answers):
 if __name__ == "__main__":
     # TODO add argument parser for file names
     ########### MAKE SURE TO COMMENT THIS OUT WHEN COMMITTING ############
-    openai.api_key = "" # vedant key
+    openai.api_key = "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" # vedant key
 
     questions = []
     questions.append("What are the mechanism of action(s) (target of the chemical reaction) and the receptor subtype(s) that the drug(s) are being evaluated with?")
