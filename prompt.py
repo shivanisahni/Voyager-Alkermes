@@ -117,7 +117,7 @@ def parse_all(file_name = 'schiz_abstracts.csv'):
         df['Pub Med ID'] = ids
         df['Answers'] = answers
         df.to_csv('sampleresults_curie.csv', index = False)
-        print(df)
+         print(df)
 
 parse_all()
 
