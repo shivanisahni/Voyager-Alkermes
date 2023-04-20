@@ -136,5 +136,5 @@ if __name__ == "__main__":
     example_answers['Partial Agonist'] = ["The receptor(s) are: dopamine. The subtype(s) are: D1. The binding mode is: antagonist. Therefore the mechanism of action is: D1 dopamine antagonist.", "The receptor(s) are: selective estrogen. The subtype(s) are: N/A. The binding mode is: modulator agonist/antagonist. Thefore the mechanism of action is: selective estrogen receptor modulator agonist/antagonist", "The receptor(s) are: N/A. The subtype(s) are: H-2. The binding mode(s) are: antagonist. Therefore the mechanism of action is H-2 antagonist.", "The receptor(s) are: dopamine and serotonin. The subtype(s) are: D3/D2 and 5-HT1A. The binding mode(s) are: partial agonist. Therefore the mechanism of action is: dopamine D3-preferring D3/D2 receptor partial agonist and serotonin 5-HT1A receptor partial agonist."]
 
     print(example_prompts, example_answers)
-    parse_all('schiz.csv', example_prompts,
+    parse_all('schiz_combined100.csv', example_prompts,
             example_answers)
