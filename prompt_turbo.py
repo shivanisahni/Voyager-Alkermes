@@ -116,6 +116,7 @@ def parse_all(file_name, example_prompts, example_answers):
                 ans = "None"
             answers.append(ans)
             moas.append(MoA)
+            time.sleep(0.8)
         
         #if num_processed >= 100:
             #break time.sleep(1.1)
@@ -131,7 +132,7 @@ def parse_all(file_name, example_prompts, example_answers):
 if __name__ == "__main__":
     # TODO add argument parser for file names
     ########### MAKE SURE TO COMMENT THIS OUT WHEN COMMITTING ############
-    openai.api_key = "" # vedant key
+    openai.api_key = "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" # vedant key
 
     questions = []
     questions.append("What are the mechanism of action(s) (target of the chemical reaction) and the receptor subtype(s) that the drug(s) are being evaluated with?")
