@@ -116,6 +116,7 @@ if __name__ == "__main__":
         ids.append(row['PMID'])
         abstract = row['COMBINED']
         prompt = generate_prompt(abstract)
+        print(prompt)
         ans = run_prompt(prompt)
         answers.append(ans)
         if num >= 10:
