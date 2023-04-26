@@ -1,6 +1,7 @@
 import openai
 import csv
 import pandas as pd
+import re
 
 
 def run_prompt(prompt):
@@ -46,10 +47,41 @@ if __name__ == "__main__":
         prompt = generate_prompt(abstract)
         ans = run_prompt(prompt)
         answers.append(ans)
-        if num >= 25:
+        if num >= 100:
             break
     answer_df['PMID'] = ids
     answer_df['Answers'] = answers
     answer_df.to_csv('phase_turbo.csv', index=False)
+
+
+    results = []
+    for index, row in answer_df.iterrows():
+        curr_answer = str(row['Answers'])
+        query = re.findall("A:\s[\w]*", curr_answer)
+        res = []
+        for ele in query:
+            ele = ele[3:].lower()
+            res.append(ele)
+        results.append(res)
+    print(results)
+    print()
+
+    df['PHASE REVISED'] = ['' for i in range(len(df['PHASE SCRAPER']))]
+    print(len(df['PHASE SCRAPER']))
+    print(len(results))
+    for i in range(0, 3):
+        if df['PHASE SCRAPER'][i] == "Not Found":
+            if len(results[i]) == 3:
+                if results[i][0].lower() == "yes":
+                    df['PHASE REVISED'][i] = 'Phase 1'
+                elif results[i][1] >= '50':
+                    df['PHASE REVISED'][i] = 'Phase 1'
+                elif results[i][2] == "yes":
+                    df['PHASE REVISED'][i] = 'Phase 3'
+
+    df.to_csv('revised.csv', index = False)
+
+
+
     print(answer_df)
 
