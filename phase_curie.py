@@ -32,7 +32,7 @@ def generate_prompt(article):
     prompt += "A: \n"
     prompt += "Q: Are humans mentioned in this study? Please answer with YES or NO."
     prompt += "A: \n"
-    prompt += "Q: Does the article mention something like healthy subjects, patients, individuals, or volunteers being involved in the trial? Please answer with YES or NO. \n"
+    prompt += "Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO. \n"
     prompt += "A: \n"
     prompt += "Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A\n"
     prompt += "A: \n"
@@ -99,10 +99,6 @@ def nct_scrape(file_name):
         df.to_csv('schiz_phase_link.csv', index = False)
         print(df)
 
-
-
-
-
 if __name__ == "__main__":
     openai.api_key = "" # vedant key
 
@@ -163,4 +159,3 @@ if __name__ == "__main__":
 
 
     print(answer_df)
-
