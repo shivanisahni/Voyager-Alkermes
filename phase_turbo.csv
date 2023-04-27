@@ -1,80 +1,166 @@
 PMID,Answers
-30738380,"Q: Are the patients involved in the trial healthy or do they have a disease? Please answer with YES or NO.
-A: They have a disease (schizophrenia).
+30738380,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: Unknown (not mentioned)
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown (not mentioned)
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes
+Q: How many people were involved in the study? Please give only the number if present, otherwise answer with N/A
+A: 227 in each group (cariprazine and risperidone)
+Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: No
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No"
+31264510,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: Yes
 
-Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
-A: 227 in each group (cariprazine and risperidone).
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Phase 1b
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes
+
+Q: How many people were involved in the study? Please give only the number if present, otherwise answer with N/A
+A: 95
+
+Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: No
 
 Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
-A: The article does not mention the words pivotal or registrational."
-31264510,"A: The patients involved in the trial have a disease (schizophrenia). Answer: YES.
-A: 95 subjects were involved in the study.
-A: The trial does not use the words pivotal or registrational or something similar. Answer: NO."
-25822479,"Q: Are the patients involved in the trial healthy or do they have a disease? Please answer with YES or NO. 
-A: The patients have a disease (schizophrenia).
+A: No"
+25822479,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: Unknown
 
-Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
-A: 100 patients were involved in the study.
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown 
 
-Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
-A: No, the trial/study does not use the words pivotal or registrational or something similar."
-26016467,"Q: Are the patients involved in the trial healthy or do they have a disease? Please answer with YES or NO.
-A: The patients involved in the trial have a disease (schizophrenia).
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: YES 
 
-Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
-A: The numerical answer is present: the antipsychotic-na√Øve group had 22 patients and the antipsychotic-treated group had 29 patients for perospirone, while the antipsychotic-na√Øve group had 18 patients and the antipsychotic-treated group had 31 patients for aripiprazole.
+Q: How many people were involved in the study? Please give only the number if present, otherwise answer with N/A
+A: 100 
+
+Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: No
 
 Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
-A: No, the trial/study does not use words such as ""pivotal"" or ""registrational."""
-17628435,"Q: Are the patients involved in the trial healthy or do they have a disease? Please answer with YES or NO. 
+A: No"
+26016467,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2, or Phase 3?
+A: No, the article does not mention the clinical trial phase of the study.
 
-A: The patients involved in the trial have a disease (schizophrenia). Answer: NO.
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated, please say Unknown.
+A: Unknown.
 
-Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes.
 
-A: 73 patients were involved in the study. Answer: 73.
+Q: How many people were involved in the study? Please give only the number if present; otherwise, answer with N/A.
+A: The study involved a total of 100 patients with schizophrenia, but the specific number of patients in each group is mentioned (e.g., n=22 or n=31).
 
-Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: No.
 
-A: The article does not mention the use of pivotal or registrational or similar words. Answer: NO."
-27371157,"Q: Are the patients involved in the trial healthy or do they have a disease? Please answer with YES or NO. 
-
-A: The patients involved in the trial have schizophrenia, so the answer is NO.
-
-Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
-
-A: 60 of 68 enrolled participants completed the study, so the numerical answer is 60.
-
-Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
-
-A: There is no mention of the words pivotal or registrational, so the answer is NO."
-9442338,"Q: Are the patients involved in the trial healthy or do they have a disease? Please answer with YES or NO. 
-
-A: The patients involved in the trial have a disease (schizophrenia). Answer is NO.
-
-Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
-
-A: In the dose-finding study, 9 patients were treated. In the early efficacy study, 10 patients received (-)-3PPP, 300mg B.I.D. Answer is 19.
-
-Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
-
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO.
 A: No."
-33691517,None
-8905533,None
-23968123,None
-24419307,None
-16754836,None
-20728875,None
-19637398,None
-20033907,None
-19956085,None
-18381905,None
-26900078,None
-23303043,None
-11343682,None
-24549101,None
-26940805,None
-9718289,None
-15474895,None
-1715608,None
->>>>>>> b37dae8 (oak)
+17628435,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No.
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown.
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes.
+
+Q: How many people were involved in the study? Please give only the number if present, otherwise answer with N/A
+A: 73.
+
+Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO. 
+A: No.
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No."
+27371157,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No, the article does not mention the clinical trial phase of the study.
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown.
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes, humans are mentioned in this study.
+
+Q: How many people were involved in the study? Please give only the number if present, otherwise answer with N/A
+A: 60 participants completed the study.
+
+Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: No, the article does not mention healthy subjects, healthy patients, or healthy volunteers being involved in the trial.
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No, the trial/study does not use the words pivotal, registrational or something similar."
+9442338,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes
+
+Q: How many people were involved in the study? Please give only the number if present, otherwise answer with N/A
+A: 9 in the dose-finding study and 10 in the early efficacy study
+
+Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO. 
+A: No
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No"
+33691517,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes
+
+Q: How many people were involved in the study? Please give only the number if present, otherwise answer with N/A
+A: 164 and 158 (study 080) and 170 and 162 (study 081)
+
+Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO. 
+A: No
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No"
+8905533,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No, it does not mention the clinical trial phase of the study.
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown.
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes.
+
+Q: How many people were involved in the study? Please give only the number if present, otherwise answer with N/A
+A: 66 patients were involved in the study.
+
+Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: No.
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No."
+23968123,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: Yes
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes
+
+Q: How many people were involved in the study? Please give only the number if present, otherwise answer with N/A
+A: N/A
+
+Q: Does the article mention something like healthy subjects, healthy patients, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: No
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No"
