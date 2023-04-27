@@ -1,28 +1,159 @@
 PMID,Answers
-30738380,"Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial?
-A: Yes.
+30738380,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No
 
-Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
-A: 227 in both the cariprazine and risperidone group, for a total of 454 participants.
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown
 
-Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
-A: No."
-31264510,"Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO. 
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes
 
+Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO. 
 A: Yes
 
 Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
-
-A: 95 subjects
+A: There were 227 participants in each group (cariprazine and risperidone)
 
 Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
-
 A: No"
-25822479,"Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO. 
-A: YES
+31264510,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: Yes
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Phase 1b
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes
+
+Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: Yes
 
 Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
-A: 100 patients with schizophrenia
+A: 95
 
 Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
-A: NO"
+A: No"
+25822479,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No.
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown.
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes.
+
+Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO. 
+A: Yes.
+
+Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
+A: 100.
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No."
+26016467,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No.
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown.
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes.
+
+Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: Yes.
+
+Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
+A: The study involved a total of 100 patients, but the number of patients in each group is given separately.
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No."
+17628435,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No, it does not mention any clinical trial phase.
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown.
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes.
+
+Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: Yes, the article mentions ""seventy-three patients with schizophrenia"" being involved in the trial.
+
+Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
+A: 73 people were involved in the study.
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No."
+27371157,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: Yes.
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: The article does not state the clinical trial phase.
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes.
+
+Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: Yes.
+
+Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
+A: 68 participants were enrolled in the study, and 60 of them completed it.
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No."
+9442338,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes
+
+Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: Yes
+
+Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
+A: 9 patients in the preliminary dose-finding study and 10 patients in the early efficacy study
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No"
+33691517,"A: Unknown (the article does not explicitly mention the clinical trial phase) 
+A: Yes 
+A: Yes 
+A: The study involved 164/158 and 170/162 inpatients in study 080 and study 081 respectively 
+A: No"
+8905533,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: No, the article does not mention the clinical trial phase of the study.
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown.
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes.
+
+Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO. 
+A: Yes, the article uses the term ""hospitalized schizophrenic patients.""
+
+Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
+A: Sixty-six patients were involved in the study.
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No."
+23968123,"Q: Does the article explicitly mention the clinical trial phase of the study, like Phase 1, Phase 2 or Phase 3?
+A: Yes.
+
+Q: What is the clinical trial phase mentioned in the study? If no phase is stated please say Unknown.
+A: Unknown.
+
+Q: Are humans mentioned in this study? Please answer with YES or NO.
+A: Yes.
+
+Q: Does the article mention something like subjects, patients, individuals, or healthy volunteers being involved in the trial? Please answer with YES or NO.
+A: Yes.
+
+Q: How many people were involved in the study? Please give a numerical answer if present, otherwise answer with N/A
+A: N/A.
+
+Q: Does the trial/study use the words pivotal or registrational or something similar? Please answer with YES or NO
+A: No."
